@@ -2,8 +2,8 @@
 import { useEffect, useState, useRef } from "react";
 import { lines } from "./data";
 
-const QUESTION = "Password: Hello World";
-const CORRECT_ANSWER = "Hello World"; 
+const QUESTION = "Te hare una pregunta ;3 ¿Te acuerdas en que juego nos conocimos por primera vez? ";
+const CORRECT_ANSWER = "Combat Warriors"; 
 
 
 function Home() {
